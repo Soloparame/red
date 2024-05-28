@@ -88,7 +88,7 @@ watch(() => route.path, async () => {
       </ul>
       <div v-if="isMenuOpen" class="absolute top-12 right-4 bg-white text-black rounded-lg shadow-lg p-4">
         <p class="text-lg font-bold">Rebika Yihenew</p>
-        <p class="text-sm mt-2">GitHub: <a href="https://github.com/yourusername" class="text-blue-500 hover:underline">yourusername</a></p>
+        <p class="text-sm mt-2">GitHub: <a href="https://github.com/Soloparame/Project.git" class="text-blue-500 hover:underline">View github</a></p>
         <p class="text-sm mt-2">Figma: <a href="https://www.figma.com/design/zRYAkx5yLpDFflh3jrO7CS/Untitled?node-id=0-1&t=t7iNwkwfRH7wuepM-0" class="text-blue-500 hover:underline">View Design</a></p>
       </div>
     </nav>
@@ -133,7 +133,7 @@ watch(() => route.path, async () => {
         <svg class="w-6 h-6 text-red-500 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"></path>
         </svg>
-        GitHub account: <a href="https://github.com/yourusername" class="text-red-500 hover:underline ml-1">yourusername</a>
+        GitHub account: <a href="https://github.com/Soloparame/Project.git" class="text-red-500 hover:underline ml-1">yourusername</a>
       </p>
       <p class="text-gray-400 text-lg flex items-center">
         <svg class="w-6 h-6 text-red-500 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
