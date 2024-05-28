@@ -123,7 +123,7 @@ watch(() => route.path, async () => {
             <svg class="w-6 h-6 text-red-500 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"></path>
             </svg>
-            GitHub account: <a href="https://github.com/Soloparame/Project.git" class="text-red-500 hover:underline ml-1">View github</a>
+            GitHub account: <a href="https://github.com/Soloparame/Project.git" class="text-red-500 hover:underline ml-1">View Github</a>
           </p>
           <p class="text-gray-400 text-lg flex items-center">
             <svg class="w-6 h-6 text-red-500 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
