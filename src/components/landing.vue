@@ -61,9 +61,9 @@ export default {
     return {
       currentImageIndex: 0,
       imageUrls: [
-        "/images/1741ea7b74b89b3750858296138b1d90.jpg", 
-        "/images/rick-morty.avif",
-        "/images/ZDLEN74CD5HVLNMVM2PKASNIJA.avif"
+        "https://c4.wallpaperflare.com/wallpaper/410/59/609/rick-and-morty-tv-rick-sanchez-morty-smith-wallpaper-preview.jpg", 
+        "https://lh3.googleusercontent.com/gs-DGCbuLZJbTYTBIyWhxFN1l_km47khDQuY8IBR9n8QgONLFYm1FzN8eC503g7oqKaNU2n5nwM9OckNV0h5dDNtIw=w640-h400-e365-rj-sc0x00ffffff",
+        "https://wallpaper.dog/large/17058612.png"
       ],
       showMoreCharacters: false,
       showMoreLocations: false,
