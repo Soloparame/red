@@ -1,9 +1,9 @@
   
 import {createRouter, createWebHistory} from 'vue-router'
-import Character from '../views/Character.vue'
-import Episode from '../views/Episode.vue'
-import Location from '../views/Location.vue'
-import Home from '../views/Home.vue'
+import Character from '../components/Character.vue'
+import Episode from '../components/Episode.vue'
+import Location from '../components/Location.vue'
+import Home from '../components/Home.vue'
 import CharacterDetails from '../components/CharacterDetails.vue';
 import LocationDetails from '../components/LocationDetails.vue';
 import EpisodeDetails from '../components/EpisodeDetails.vue';
